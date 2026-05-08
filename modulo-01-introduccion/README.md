@@ -1,7 +1,7 @@
 # 🐍 Proyecto: Fundamentos de Python NetAcad
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Cisco Networking Academy](https://img.shields.io/badge/Basado%20en-Fundamentos%20NetAcad-orange)](URL_DEL_CURSO)
+[![Cisco Networking Academy](https://img.shields.io/badge/Basado%20en-Fundamentos%20NetAcad-orange)](https://www.netacad.com/launch?id=1ce0c3a6-dceb-4285-b850-779879594c22&tab=curriculum&view=6e1f4f6d-9f60-5110-9b70-afd8717ce5f3)
 
 ## 📚 Descripción del Proyecto
 Este repositorio contiene una implementación práctica de los conceptos fundamentales de la programación en Python, siguiendo el plan de estudios de **Cisco Networking Academy** (Fundamentos de Python). El objetivo es consolidar las habilidades básicas necesarias para desarrollar y comprender programas simples, preparando al estudiante para certificaciones de nivel de entrada como PCEP.
